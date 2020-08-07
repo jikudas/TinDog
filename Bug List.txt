@@ -1,0 +1,2 @@
+1. Bootstrap Javascript didn't linked up.
+2. 
